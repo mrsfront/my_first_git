@@ -3,4 +3,4 @@ My first git traning
 
 ### Let's start
 
-### Commint with IDE!!!
+### Commit with IDE!!!
