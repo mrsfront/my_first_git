@@ -8,12 +8,12 @@ My first git traning
 https://roadmap.sh/frontend
 ```
 
-:one: *HTML5 + CSS3* :zero::zero:%
+:one: *HTML5 + CSS3* :zero:%
 ```
 https://stepik.org/course/58973/promo?search=7606745644
 ```
 
-:two: *JavaScript* :zero::zero:%
+:two: *JavaScript* :zero:%
 ```
 https://stepik.org/course/114165/promo?search=7606876472
 ```
