@@ -1,19 +1,19 @@
-# my_first_git
+# :top: my_first_git
 
 My first git traning
 
-# ROADMAP
+# :rocket: ROADMAP
 
 ```
 https://roadmap.sh/frontend
 ```
 
-* 1 ) HTML5 + CSS3
+:one: *HTML5 + CSS3* :zero::zero:%
 ```
 https://stepik.org/course/58973/promo?search=7606745644
 ```
 
-* 2 ) JavaScript
+:two: *JavaScript* :zero::zero:%
 ```
 https://stepik.org/course/114165/promo?search=7606876472
 ```
