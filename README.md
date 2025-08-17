@@ -14,3 +14,6 @@ https://stepik.org/course/58973/promo?search=7606745644
 ```
 
 * 2 ) JavaScript
+```
+https://stepik.org/course/114165/promo?search=7606876472
+```
