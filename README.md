@@ -2,7 +2,7 @@
 
 My first git traning
 
-# ROADAP
+# ROADMAP
 
 ```
 https://roadmap.sh/frontend
