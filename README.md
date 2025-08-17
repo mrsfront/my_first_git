@@ -20,5 +20,14 @@ https://stepik.org/course/58973/promo?search=7606745644
 https://stepik.org/course/114165/promo?search=7606876472
 ```
 * :two:.:one: JavaScript :zero:%
+```
+https://stepik.org/course/114165/promo
+```
 * :two:.:two: React :zero:%
+```
+https://stepik.org/course/114197/promo
+```
 * :two:.:three: Redux :zero:%
+```
+https://stepik.org/course/113714/promo
+```
