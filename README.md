@@ -8,12 +8,15 @@ My first git traning
 https://roadmap.sh/frontend
 ```
 
+# :arrow_upper_right: Full programm :arrow_upper_right:
+```
+https://stepik.org/course/180789/promo?search=7796347745#toc
+```
+
 :one: *HTML5 + CSS3* 
 
 * :one:.:one: HTML5 :zero:%
 * :one:.:two: CSS3 :zero:%
-
-# :arrow_upper_right: Full programm :arrow_upper_right:
 
 ```
 https://stepik.org/course/120081/promo
