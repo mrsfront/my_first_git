@@ -2,7 +2,7 @@
 
 My first git traning
 
-# :rocket: ROADMAP to :star:***Frontend devepoler***:star:
+# :rocket: ROADMAP to :star:***Frontend developer***:star:
 
 ```
 https://roadmap.sh/frontend
@@ -13,8 +13,10 @@ https://roadmap.sh/frontend
 * :one:.:one: HTML5 :zero:%
 * :one:.:two: CSS3 :zero:%
 
+# :arrow_upper_right: Full programm :arrow_upper_right:
+
 ```
-https://stepik.org/course/58973/promo?search=7606745644
+https://stepik.org/course/120081/promo
 ```
 
 :two: *JavaScript + React + Redux*
