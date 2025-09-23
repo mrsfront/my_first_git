@@ -1,0 +1,65 @@
+* {
+    font-style: italic;
+}
+
+h2 {text-transform: uppercase;
+    color: blue;
+} 
+h3 {text-align: center;
+    color: #b37777;
+ }
+.yellow {
+    color: yellow;
+}
+#heading {
+    border-bottom: 1px solid #000;
+}
+
+#subtitle {
+    border-bottom: 1px solid #555;
+}
+
+div figure {
+    text-align: right;
+    font-style: italic;
+}
+.fontlist {
+    list-style: none;
+    list-style-image: url(../images/90457.jpg);
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/montserrat-italic-webfont.woff')
+        url('../fonts/montserrat-italic-webfont.woff2')
+        url('../fonts/Montserrat-Italic.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Meow+Script&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Pacifico&display=swap');
+
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color:#542f99;
+}
+
+.simple {
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+   /* text-decoration: line-through;*/
+    letter-spacing: 2px;
+    text-shadow:red 0 0 10px;
+    text-transform: capitalize;
+}
+.complex {
+    width: 60%;
+}
+
+.more {
+    font-size: 2vw;
+}
