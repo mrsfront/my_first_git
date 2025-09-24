@@ -1,4 +1,4 @@
-* {
+/** {
     font-style: italic;
 }
 
@@ -51,7 +51,7 @@ div figure {
     font-size: 20px;
     font-weight: 600;
     font-style: normal;
-   /* text-decoration: line-through;*/
+   /* text-decoration: line-through;
     letter-spacing: 2px;
     text-shadow:red 0 0 10px;
     text-transform: capitalize;
@@ -59,7 +59,34 @@ div figure {
 .complex {
     width: 60%;
 }
-
 .more {
     font-size: 2vw;
 }
+*/
+
+
+/*html. css #2.3 */
+
+h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+
+h1 {
+    font-style: italic
+}
+
+p{
+    font-family: Georgia, 'Times New Roman';
+    font-weight: 300;
+}
+li {
+    letter-spacing: 5px;
+}
+
+????
+/*h2::first-letter {
+    font-size: 50px;
+    font-weight: 400;
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}*/
