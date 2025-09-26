@@ -16,14 +16,13 @@ https://stepik.org/course/180789/promo?search=7796347745#toc
 :one: *HTML5 + CSS3* 
 
 :on: *Progress*
-* :one:.:one: HTML5 :five:%
-* :one:.:two: CSS3 :zero:%
+* :one:.:one: HTML5 + CSS3 + JavaScript :eight:%
 
 ```
 https://stepik.org/course/120081/promo
 ```
 
-:two: *JavaScript + React + Redux*
+:two: *React + Redux*
 
 :on:*Progress*
 * :two:.:one: JavaScript :zero:%
