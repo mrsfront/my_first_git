@@ -16,7 +16,7 @@ https://stepik.org/course/180789/promo?search=7796347745#toc
 :one: *HTML5 + CSS3* 
 
 :on: *Progress*
-* :one:.:one: HTML5 + CSS3 + JavaScript :eight:%
+* :one:.:one: HTML5 + CSS3 + JavaScript :keycap_ten:%
 
 ```
 https://stepik.org/course/120081/promo
