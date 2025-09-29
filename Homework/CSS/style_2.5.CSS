@@ -1,0 +1,47 @@
+body{
+    background-image: url(../images/wall.png);
+    background-repeat: repeat no-repeat; /*можно no-repeat или вместе*/
+    background-position: center; /*100px (по X) 20 px (по Y)*/
+}
+
+
+.product-item {
+    /*background-color: rgb(250, 6, 6, 0.5); /*0.5 - 4 и 7 цифры отвечает за прозрачность*/
+    color: black;
+    padding: 10px 15;
+    margin: 5px 0;
+    height: 100vh;
+
+    border-radius: 50px 0 0 0;
+    /*outline: 1px solid red;*/
+    box-shadow: white 0 0 10px 5px; /*можно поиграться цифрами = тень будет меняться в разные сторроны*/
+    
+    background-image: url(../images/Vulkan.jpg);
+    background-position: center;
+    background-size: 25px;
+}
+
+
+
+.product-item:first-child {
+    background: coral url(../images/Vulkan.jpg); /*через запятую можно еще картинки*/
+    background-position: center;
+    background-size: 500px;
+}
+
+.product-item_title {
+    width: 50%;
+    height: auto;
+    box-sizing: border-box;
+    margin: 15px auto; /*внутри отступ сработал*/
+    padding: 10 15px;/*сработал между блоками в 1 div*/
+}
+
+.product-item:nth-child(2) {
+    background: url(../images/Vulkan.jpg) no-repeat;
+    background-size: cover;
+    background-color: blueviolet;
+    background-position: left;
+    background-attachment: fixed;
+
+}
