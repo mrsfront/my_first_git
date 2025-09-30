@@ -1,0 +1,40 @@
+.anchor {
+    text-transform: none;
+    text-decoration:none;
+}
+
+.link {
+    text-transform: none;
+    text-decoration:none;
+}
+
+.link:hover {
+    border-bottom: 1px solid yellow;
+}
+
+.anchor:hover {
+    border-bottom: 1px solid;
+}
+
+.link:active {
+    color: gold;
+}
+
+.anchor:active {
+    color: gold;
+}
+
+.anchor {
+    display: inline-block;
+    background-color: brown;
+    color:white;
+    text-transform: uppercase;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 25px 25px;
+    padding: 5px 5px;
+}
+
+.anchor:visited {
+    color: blueviolet;
+}
