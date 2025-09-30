@@ -1,14 +1,21 @@
-body{
+
+
+
+
+
+
+
+/*body{
     background-image: url(../images/wall.png);
-    background-repeat: repeat no-repeat; /*можно no-repeat или вместе*/
-    background-position: center; /*100px (по X) 20 px (по Y)*/
+    background-repeat: repeat; /*можно no-repeat или вместе*/
+    /*background-position: center; /*100px (по X) 20 px (по Y)*/
 }
 
 
 .product-item {
     /*background-color: rgb(250, 6, 6, 0.5); /*0.5 - 4 и 7 цифры отвечает за прозрачность*/
     color: black;
-    padding: 10px 15;
+    padding: 10px 15px;
     margin: 5px 0;
     height: 100vh;
 
@@ -34,14 +41,66 @@ body{
     height: auto;
     box-sizing: border-box;
     margin: 15px auto; /*внутри отступ сработал*/
-    padding: 10 15px;/*сработал между блоками в 1 div*/
+    padding: 10px
+    
+    15px;/*сработал между блоками в 1 div*/
 }
-
-.product-item:nth-child(2) {
+/*.product-item:nth-child(2) {
     background: url(../images/Vulkan.jpg) no-repeat;
     background-size: cover;
     background-color: blueviolet;
     background-position: left;
     background-attachment: fixed;
 
+}
+
+.product-item:nth-child(2) {
+    background: blueviolet url(../images/Vulkan.jpg) left / cover no-repeat fixed;
+}*/
+
+
+body{
+    background-image: url(../images/wall.png);
+    background-repeat: repeat; /* ИЛИ no-repeat */
+    background-position: center;
+}
+
+.product-item {
+    color: black;
+    padding: 10px 15px; /* исправлено */
+    margin: 5px 0;
+    height: 100vh;
+    border-radius: 50px 0 0 0;
+    box-shadow: white 0 0 10px 5px;
+    background-image: url(../images/Vulkan.jpg);
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat; /* исправлено */
+}
+
+.product-item:first-child {
+    /* Либо сокращенная запись */
+    background: coral url(../images/Vulkan.jpg) center / 500px no-repeat;
+    /* Либо раздельная запись */
+    /* background-color: coral;
+    background-image: url(../images/Vulkan.jpg);
+    background-position: center;
+    background-size: 100px;
+    background-repeat: no-repeat; */
+}
+
+.product-item_title {
+    width: 50%;
+    height: auto;
+    box-sizing: border-box;
+    margin: 15px auto;
+    padding: 10px 15px; /* исправлено */
+}
+
+.product-item:nth-child(2) {
+    background: url(../images/Vulkan.jpg) no-repeat;
+    background-size: cover;
+    background-color: blueviolet;
+    background-position: right top;
+    background-attachment: fixed;
 }
