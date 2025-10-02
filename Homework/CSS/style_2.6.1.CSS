@@ -38,3 +38,9 @@
 .anchor:visited {
     color: blueviolet;
 }
+
+img {
+    max-width: 100vw;
+    height: 240px;
+    object-fit: cover;
+}
